@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695735717 source:c:\fh technikum dev\prozd\ue07 noten\main.c
+	<stdio.h>
+	<stdlib.h>
+
